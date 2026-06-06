@@ -8,8 +8,7 @@ It uses K-Means Clustering and PCA to group learners and visualize patterns inte
 
 
 ##  Live Demo
-https://your-app-name.streamlit.app
-
+https://learnersclusteringapp-5ftkdm3zkfj2y4yjhryfqe.streamlit.app/
 
 
 ##  Features
